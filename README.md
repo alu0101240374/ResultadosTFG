@@ -1,6 +1,6 @@
 # Resultados TFG provisionales 19/05/2022
 
-En el directorio 'Fotos/' se encuentran todos los patrones que forman la base de datos
+En el directorio 'Fotos/' se encuentran todos los patrones que forman la base de datos  
 *Ignorar los ficheros que empiezan por AAP_...*
 
 ## Resultados de Accuracy
